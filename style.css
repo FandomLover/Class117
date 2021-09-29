@@ -1,0 +1,15 @@
+body{
+    background-color: plum;
+
+}
+h1{
+    color:seagreen;
+    background-color: silver;
+}
+#show_sketch{
+    float:right;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
